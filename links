@@ -4,7 +4,7 @@
 	* What every programmer should know about floating point arithmetic by David Goldberg :(https://ece.uwaterloo.ca/~dwharder/NumericalAnalysis/02Numerics/Double/paper.pdf (https://ece.uwaterloo.ca/~dwharder/NumericalAnalysis/02Numerics/Double/paper.pdf)
 	* A link to really good list of CS papers papers-we-love/papers-we-love :(https://github.com/papers-we-love/papers-we-love)
 	* Futexes are tricky. :(http://dept-info.labri.fr/~denis/Enseignement/2008-IR/Articles/01-futex.pdf) :(http://dept-info.labri.fr/~denis/Enseignement/2008-IR/Articles/01-futex.pdf)
-**Some other basic resources:**
+**Blogs:**
 	* System Address Map Initialization in x86/x64 Architecture Part 1: PCI-Based Systems - InfoSec Institute :(http://resources.infosecinstitute.com/system-address-map-initialization-in-x86x64-architecture-part-1-pci-based-systems/)
 	* System Address Map Initialization in x86/x64 Architecture Part 2: PCI Express-Based Systems - InfoSec Institute :(http://resources.infosecinstitute.com/system-address-map-initialization-x86x64-architecture-part-2-pci-express-based-systems/)
 	* What Your Computer Does While You Wait :(http://duartes.org/gustavo/blog/post/what-your-computer-does-while-you-wait)
