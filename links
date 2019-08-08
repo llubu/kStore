@@ -1,7 +1,7 @@
 **Papers:**
 	* Some great debugging stories: danluu/debugging-stories :(https://github.com/danluu/debugging-stories)
 	* What every programmer should know about Memory by Ulrich Drepper. :(http://ftp.linux.org.ua/pub/docs/developer/general/cpumemory.pdf :(http://ftp.linux.org.ua/pub/docs/developer/general/cpumemory.pdf)
-	* What every programmer should know about floating point arithmetic by David Goldberg :(https://ece.uwaterloo.ca/~dwharder/NumericalAnalysis/02Numerics/Double/paper.pdf (https://ece.uwaterloo.ca/~dwharder/NumericalAnalysis/02Numerics/Double/paper.pdf)
+	* What every programmer should know about floating point arithmetic by David Goldberg :(https://ece.uwaterloo.ca/~dwharder/NumericalAnalysis/02Numerics/Double/paper.pdf) (https://ece.uwaterloo.ca/~dwharder/NumericalAnalysis/02Numerics/Double/paper.pdf)
 	* A link to really good list of CS papers papers-we-love/papers-we-love :(https://github.com/papers-we-love/papers-we-love)
 	* Futexes are tricky. :(http://dept-info.labri.fr/~denis/Enseignement/2008-IR/Articles/01-futex.pdf) :(http://dept-info.labri.fr/~denis/Enseignement/2008-IR/Articles/01-futex.pdf)
 **Blogs:**
@@ -29,12 +29,12 @@
 **Books/Manuals**:
 	* Intel 64 and IA-32 Architectures Developer’s Manual: Vol. 3A :(http://www.intel.com/content/www/us/en/architecture-and-technology/64-ia-32-architectures-software-developer-vol-3a-part-1-manual.html)
 	* AMD64 Architecture Programmer’s Manual Volume 2:System Programming :(http://support.amd.com/us/Embedded_TechDocs/24593.pdf)
-	* Assembly Language Step-by-Step: Programming with Linux: Jeff Duntemann: 9780470497029: Amazon.com: Books :(http://www.amazon.com/Assembly-Language-Step-Step-Programming/dp/0470497025)
-	* Understanding the Linux Kernel, Third Edition: Daniel P. Bovet, Marco Cesati Ph.D.: 9780596005658: Amazon.com: Books :(http://www.amazon.com/Understanding-Linux-Kernel-Third-Daniel/dp/0596005652)
-	* Linux Kernel Development (3rd Edition): Robert Love: 9780672329463: Amazon.com: Books :(http://www.amazon.com/Linux-Kernel-Development-Robert-Love/dp/0672329468)
-	* Linux System Programming: Talking Directly to the Kernel and C Library: Robert Love: 9780596009588: Amazon.com: Books :(http://www.amazon.com/Linux-System-Programming-Talking-Directly/dp/0596009585)
-	* Amazon.com: What Makes It Page?: The Windows 7 (x64) Virtual Memory Manager (9781479114290): Enrico Martignetti: Books :(http://www.amazon.com/What-Makes-It-Page-Windows/dp/1479114294)
-	* Understanding the Linux Virtual Memory Manager - (https://www.kernel.org/doc/gorman/)
+	* Assembly Language Step-by-Step: Programming with Linux: Jeff Duntemann :(http://www.amazon.com/Assembly-Language-Step-Step-Programming/dp/0470497025)
+	* Understanding the Linux Kernel, Third Edition: Daniel P. Bovet, Marco Cesati Ph.D. :(http://www.amazon.com/Understanding-Linux-Kernel-Third-Daniel/dp/0596005652)
+	* Linux Kernel Development (3rd Edition): Robert Love :(http://www.amazon.com/Linux-Kernel-Development-Robert-Love/dp/0672329468)
+	* Linux System Programming: Talking Directly to the Kernel and C Library: Robert Love: :(http://www.amazon.com/Linux-System-Programming-Talking-Directly/dp/0596009585)
+	* What Makes It Page?: The Windows 7 (x64) Virtual Memory Manager (9781479114290): Enrico Martignetti :(http://www.amazon.com/What-Makes-It-Page-Windows/dp/1479114294)
+	* Understanding the Linux Virtual Memory Manager - :(https://www.kernel.org/doc/gorman/)
 	* Architectural and Operating System Support for Virtual Memory (Synthesis Lectures on Computer Architecture) :(https://www.amazon.com/dp/1627056025/ref=cm_sw_em_r_mt_dp_U_LKlqDbJA5JKMQ)
 	* Hardware and Software Support for Virtualization (Synthesis Lectures on Computer Architecture) :(https://www.amazon.com/dp/1627056939/ref=cm_sw_em_r_mt_dp_U_4KlqDbF7QP8CX)
 
