@@ -1,9 +1,9 @@
 **Papers:**
 	* Some great debugging stories: danluu/debugging-stories :(https://github.com/danluu/debugging-stories)
-	* What every programmer should know about Memory by Ulrich Drepper. :(http://ftp.linux.org.ua/pub/docs/developer/general/cpumemory.pdf :(http://ftp.linux.org.ua/pub/docs/developer/general/cpumemory.pdf)
-	* What every programmer should know about floating point arithmetic by David Goldberg :(https://ece.uwaterloo.ca/~dwharder/NumericalAnalysis/02Numerics/Double/paper.pdf) (https://ece.uwaterloo.ca/~dwharder/NumericalAnalysis/02Numerics/Double/paper.pdf)
+	* What every programmer should know about Memory by Ulrich Drepper. :(https://people.freebsd.org/~lstewart/articles/cpumemory.pdf)
+	* What every programmer should know about floating point arithmetic by David Goldberg :(https://ece.uwaterloo.ca/~dwharder/NumericalAnalysis/02Numerics/Double/paper.pdf)
 	* A link to really good list of CS papers papers-we-love/papers-we-love :(https://github.com/papers-we-love/papers-we-love)
-	* Futexes are tricky. :(http://dept-info.labri.fr/~denis/Enseignement/2008-IR/Articles/01-futex.pdf) :(http://dept-info.labri.fr/~denis/Enseignement/2008-IR/Articles/01-futex.pdf)
+	* Futexes are tricky. :(http://dept-info.labri.fr/~denis/Enseignement/2008-IR/Articles/01-futex.pdf)
 **Blogs:**
 	* System Address Map Initialization in x86/x64 Architecture Part 1: PCI-Based Systems - InfoSec Institute :(http://resources.infosecinstitute.com/system-address-map-initialization-in-x86x64-architecture-part-1-pci-based-systems/)
 	* System Address Map Initialization in x86/x64 Architecture Part 2: PCI Express-Based Systems - InfoSec Institute :(http://resources.infosecinstitute.com/system-address-map-initialization-x86x64-architecture-part-2-pci-express-based-systems/)
@@ -23,7 +23,7 @@
 	* Tail Calls, Optimization, and ES6 :(http://duartes.org/gustavo/blog/post/tail-calls-optimization-es6/)
 	* How is a page walk implemented? :(https://www.quora.com/How-is-a-page-walk-implemented/answer/Abhiroop-Dabral)
 	* Bit Twiddling Hacks :(http://graphics.stanford.edu/~seander/bithacks.html)
-	* Great articles related to Linkers and Loaders. :(http://eli.thegreenplace.net/category/programming/linkers-and-loaders/)
+	* Linkers and Loaders. :(https://eli.thegreenplace.net/tag/linkers-and-loaders)
 	* Everything about x86: 'x86' tag wiki :(https://stackoverflow.com/tags/x86/info)
 	* Windows Kernel: Vergilius Project :(https://www.vergiliusproject.com/)
 **Books/Manuals**:
